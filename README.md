@@ -5,6 +5,7 @@ Icon:
 https://github.com/tibssy/Hercules-Icon-Theme
 
 Midnight Commander Skins:
+https://github.com/tibssy/Hercules-GTK3-theme/blob/main/hercules.ini
 Copy hercules.ini file to /usr/share/mc/skins/ folder and replece the line skin=default to skin=hercules in ~/.config/mc/ini file
 
 
